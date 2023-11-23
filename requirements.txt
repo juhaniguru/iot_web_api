@@ -1,0 +1,5 @@
+pymongo[srv]
+flask
+passlib[bcrypt]
+pyJWT[crypto]
+python-dotenv
